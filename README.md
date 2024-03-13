@@ -9,14 +9,14 @@
 
   - 🌱 Atualmente estou estudando Sistemas para internet no IFSUL.
 
-  - 🔭 Procurando aprender sobre Backend e IA.
+  - 🔭 Buscando me aprofundar em java e futuramente em I.A.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Sobre mim</summary>
 
-  - 💬 Tenho 21 anos, atualmente morando no Brasil. Estou aprendendo inglês e pretendendo aprender java.
+  - 💬 Tenho 22 anos, atualmente morando em Pelotas-RS. Estou aprendendo inglês e pretendendo aprender java.
 </details>
 
 <!-- Links -->
