@@ -14,7 +14,7 @@
 <details>
   <summary>👨‍💻 Sobre mim</summary>
 
-  - 💬 Tenho 22 anos, atualmente morando em Pelotas-RS. Estou aprendendo inglês e pretendendo aprender java.
+  - 💬 Tenho 22 anos, atualmente morando em Pelotas-RS.
 </details>
 
 <!-- Links -->
