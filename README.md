@@ -1,10 +1,10 @@
 <!-- Dropdown -->
 <ul> 👨‍💻 Bio
   <li>
-    - Estudante de Sistemas para Internet - IFSUL Campus Pelotas.
-    - 23 anos
-    - Residindo na cidade de Pelotas-RS.
-    - Backend
+    - Estudante de Sistemas para Internet - IFSUL Campus Pelotas.<br>
+    - 23 anos<br>
+    - Residindo na cidade de Pelotas-RS.<br>
+    - Backend. <br>
   </li>
 </ul>
 
