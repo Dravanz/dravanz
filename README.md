@@ -1,11 +1,12 @@
 <!-- Dropdown -->
-<details>
-  <summary>👨‍💻 Bio</summary>
+<ul> 👨‍💻 Bio
+  <li>
     - Estudante de Sistemas para Internet - IFSUL Campus Pelotas.
     - 23 anos
     - Residindo na cidade de Pelotas-RS.
     - Backend
-</details>
+  </li>
+</ul>
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_hmd/)
