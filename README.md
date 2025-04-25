@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o [dravanz]!
 
 ```js
-import Desenvolvedor from "SeuNick";
+import Desenvolvedor from "ruas";
 
 class SobreMim extends Desenvolvedor {
   nome = "Guilherme Dravanz";
