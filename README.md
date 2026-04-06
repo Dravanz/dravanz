@@ -1,28 +1,12 @@
-# 👋 Olá, eu sou o [dravanz]!
+# 👋 Olá, me chamo Guilherme Dravanz!
 
 ```js
-import Desenvolvedor from "ruas";
+Sou natural de Pelotas-RS, 24 anos.
+Estudante de Sistemas para internet no IFSUL - Campus Pelotas.
+Desenvolvendo alguns projetos academicos e pessoais, envolvendo api's, aplicativos, web e databases.
+Conhecimento Intermediário em Inglês.
 
-class SobreMim extends Desenvolvedor {
-  nome = "Guilherme Dravanz";
-  trabalho = "Estudante - Sistemas para Internet - IFSUL Campus Pelotas";
-  local = "Pelotas - Rio Grande do Sul";
-}
-
-class Skills extends Desenvolvedor {
-  linguagens = ["JavaScript", "C"];
-  bibliotecas = ["React"];
-  frameworks = ["Laravel"];
-
-  constructor() {
-    super();
-    try {
-      this.aprender();
-    } catch (e) {
-      console.log("Erro: habilidade 'ProgramarBem' não encontrada 😅");
-    }
-  }
-}
+Sinta-se a vontade para me contatar nas redes sociais abaixo. Abraço!
 ```
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilherme_hmd/)
