@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Guilherme Dravanz!
 
-```js
+```
 Sou natural de Pelotas-RS, 24 anos.
 Estudante de Sistemas para internet no IFSUL - Campus Pelotas.
 Desenvolvendo alguns projetos academicos e pessoais, envolvendo api's, aplicativos, web e databases.
